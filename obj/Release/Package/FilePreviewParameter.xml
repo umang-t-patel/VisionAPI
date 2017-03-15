@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="Default Web Site" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^E:\\MS\\Master\ Project\\VisionAPI\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^E:\\MS\\Master\ Project\\VisionAPI\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="LocalMySqlServer-Web.config Connection String" description="" value="Server=1.2.3.4;Database=VisionAPIshelf;Uid=dotnetapp;Pwd=" tags="">
+    <parameterEntry kind="XmlFile" scope="E:\\MS\\Master\ Project\\VisionAPI\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='LocalMySqlServer']/@connectionString" />
+  </parameter>
+  <parameter name="LocalSqlServer-Web.config Connection String" description="LocalSqlServer Connection String used in web.config by the application to access the database." value="Data Source=ServerName;Initial Catalog=DatabaseName;Integrated Security=False;User Id=userid;Password=password;MultipleActiveResultSets=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="E:\\MS\\Master\ Project\\VisionAPI\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='LocalSqlServer']/@connectionString" />
+  </parameter>
+</parameters>

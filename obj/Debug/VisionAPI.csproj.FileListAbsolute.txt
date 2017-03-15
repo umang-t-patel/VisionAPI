@@ -1,0 +1,277 @@
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\grpc_csharp_ext.x86.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\grpc_csharp_ext.x64.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\libgrpc_csharp_ext.x86.so
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\libgrpc_csharp_ext.x64.so
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\libgrpc_csharp_ext.x86.dylib
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\libgrpc_csharp_ext.x64.dylib
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\roslyn\csc.exe
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\roslyn\csc.exe.config
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\roslyn\csc.rsp
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\roslyn\csi.exe
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\roslyn\csi.rsp
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\roslyn\System.AppContext.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\roslyn\System.Collections.Immutable.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\roslyn\System.Console.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\roslyn\System.IO.FileSystem.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\roslyn\System.Reflection.Metadata.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\roslyn\vbc.exe
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\roslyn\vbc.exe.config
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\roslyn\vbc.rsp
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\roslyn\VBCSCompiler.exe
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\roslyn\VBCSCompiler.exe.config
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\3-binary-data.dll.config
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\3-binary-data.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\3-binary-data.pdb
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\Antlr3.Runtime.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\BouncyCastle.Crypto.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\EntityFramework.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\EntityFramework.SqlServer.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\Google.Api.CommonProtos.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\Google.Api.Gax.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\Google.Api.Gax.Grpc.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\Google.Api.Gax.Rest.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\Google.Apis.Auth.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\Google.Apis.Auth.PlatformServices.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\Google.Apis.Core.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\Google.Apis.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\Google.Apis.PlatformServices.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\Google.Apis.Storage.v1.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\Google.Datastore.V1.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\Google.Protobuf.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\Google.Storage.V1.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\Grpc.Auth.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\Grpc.Core.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\log4net.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\Microsoft.Practices.ServiceLocation.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\Microsoft.Practices.Unity.Configuration.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\Microsoft.Practices.Unity.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\Microsoft.Practices.Unity.Mvc.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\Microsoft.Threading.Tasks.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\Microsoft.Threading.Tasks.Extensions.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\Microsoft.Web.Infrastructure.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\MySql.Data.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\MySql.Data.Entity.EF6.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\MySql.Web.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\Newtonsoft.Json.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\System.Interactive.Async.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\System.Net.Http.Extensions.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\System.Net.Http.Primitives.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\System.Web.Helpers.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\System.Web.Mvc.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\System.Web.Optimization.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\System.Web.Razor.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\System.Web.WebPages.Deployment.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\System.Web.WebPages.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\System.Web.WebPages.Razor.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\WebActivatorEx.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\WebGrease.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\Zlib.Portable.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\Antlr3.Runtime.pdb
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\BouncyCastle.Crypto.pdb
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\EntityFramework.xml
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\EntityFramework.SqlServer.xml
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\Google.Api.CommonProtos.xml
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\Google.Api.Gax.xml
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\Google.Api.Gax.Grpc.xml
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\Google.Api.Gax.Rest.xml
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\Google.Apis.pdb
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\Google.Apis.xml
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\Google.Apis.Auth.pdb
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\Google.Apis.Auth.xml
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\Google.Apis.Auth.PlatformServices.pdb
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\Google.Apis.Auth.PlatformServices.xml
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\Google.Apis.Core.pdb
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\Google.Apis.Core.xml
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\Google.Apis.PlatformServices.pdb
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\Google.Apis.PlatformServices.xml
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\Google.Apis.Storage.v1.pdb
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\Google.Apis.Storage.v1.xml
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\Google.Datastore.V1.xml
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\Google.Protobuf.xml
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\Google.Storage.V1.xml
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\Grpc.Auth.xml
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\Grpc.Core.xml
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\log4net.xml
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\Microsoft.Practices.ServiceLocation.pdb
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\Microsoft.Practices.ServiceLocation.xml
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\Microsoft.Practices.Unity.xml
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\Microsoft.Practices.Unity.Configuration.xml
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\Microsoft.Practices.Unity.Mvc.xml
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\Microsoft.Threading.Tasks.xml
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\Microsoft.Threading.Tasks.Extensions.xml
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\Newtonsoft.Json.xml
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\System.Interactive.Async.xml
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\System.Net.Http.Extensions.xml
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\System.Net.Http.Primitives.xml
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\System.Web.Optimization.xml
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\System.Web.Helpers.xml
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\System.Web.Mvc.xml
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\System.Web.Razor.xml
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\System.Web.WebPages.xml
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\System.Web.WebPages.Deployment.xml
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\System.Web.WebPages.Razor.xml
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\bin\Zlib.Portable.xml
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\obj\Debug\VisionAPI.csproj.App.config
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\obj\Debug\3-binary-data.dll
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\obj\Debug\3-binary-data.pdb
+E:\MS\Master Project\Test Files\getting-started-dotnet-master\getting-started-dotnet-master\aspnet\3-binary-data\obj\Debug\VisionAPI.csprojResolveAssemblyReference.cache
+E:\MS\Master Project\VisionAPI\bin\grpc_csharp_ext.x86.dll
+E:\MS\Master Project\VisionAPI\bin\grpc_csharp_ext.x64.dll
+E:\MS\Master Project\VisionAPI\bin\libgrpc_csharp_ext.x86.so
+E:\MS\Master Project\VisionAPI\bin\libgrpc_csharp_ext.x64.so
+E:\MS\Master Project\VisionAPI\bin\libgrpc_csharp_ext.x86.dylib
+E:\MS\Master Project\VisionAPI\bin\libgrpc_csharp_ext.x64.dylib
+E:\MS\Master Project\VisionAPI\bin\roslyn\csc.exe
+E:\MS\Master Project\VisionAPI\bin\roslyn\csc.exe.config
+E:\MS\Master Project\VisionAPI\bin\roslyn\csc.rsp
+E:\MS\Master Project\VisionAPI\bin\roslyn\csi.exe
+E:\MS\Master Project\VisionAPI\bin\roslyn\csi.rsp
+E:\MS\Master Project\VisionAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MS\Master Project\VisionAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MS\Master Project\VisionAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\MS\Master Project\VisionAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MS\Master Project\VisionAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\MS\Master Project\VisionAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MS\Master Project\VisionAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MS\Master Project\VisionAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\MS\Master Project\VisionAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\MS\Master Project\VisionAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MS\Master Project\VisionAPI\bin\roslyn\System.AppContext.dll
+E:\MS\Master Project\VisionAPI\bin\roslyn\System.Collections.Immutable.dll
+E:\MS\Master Project\VisionAPI\bin\roslyn\System.Console.dll
+E:\MS\Master Project\VisionAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\MS\Master Project\VisionAPI\bin\roslyn\System.IO.FileSystem.dll
+E:\MS\Master Project\VisionAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\MS\Master Project\VisionAPI\bin\roslyn\System.Reflection.Metadata.dll
+E:\MS\Master Project\VisionAPI\bin\roslyn\vbc.exe
+E:\MS\Master Project\VisionAPI\bin\roslyn\vbc.exe.config
+E:\MS\Master Project\VisionAPI\bin\roslyn\vbc.rsp
+E:\MS\Master Project\VisionAPI\bin\roslyn\VBCSCompiler.exe
+E:\MS\Master Project\VisionAPI\bin\roslyn\VBCSCompiler.exe.config
+E:\MS\Master Project\VisionAPI\bin\VisionAPI.dll.config
+E:\MS\Master Project\VisionAPI\bin\VisionAPI.dll
+E:\MS\Master Project\VisionAPI\bin\VisionAPI.pdb
+E:\MS\Master Project\VisionAPI\bin\Antlr3.Runtime.dll
+E:\MS\Master Project\VisionAPI\bin\BouncyCastle.Crypto.dll
+E:\MS\Master Project\VisionAPI\bin\EntityFramework.dll
+E:\MS\Master Project\VisionAPI\bin\EntityFramework.SqlServer.dll
+E:\MS\Master Project\VisionAPI\bin\Google.Api.CommonProtos.dll
+E:\MS\Master Project\VisionAPI\bin\Google.Api.Gax.dll
+E:\MS\Master Project\VisionAPI\bin\Google.Api.Gax.Grpc.dll
+E:\MS\Master Project\VisionAPI\bin\Google.Api.Gax.Rest.dll
+E:\MS\Master Project\VisionAPI\bin\Google.Apis.Auth.dll
+E:\MS\Master Project\VisionAPI\bin\Google.Apis.Auth.PlatformServices.dll
+E:\MS\Master Project\VisionAPI\bin\Google.Apis.Core.dll
+E:\MS\Master Project\VisionAPI\bin\Google.Apis.dll
+E:\MS\Master Project\VisionAPI\bin\Google.Apis.PlatformServices.dll
+E:\MS\Master Project\VisionAPI\bin\Google.Apis.Storage.v1.dll
+E:\MS\Master Project\VisionAPI\bin\Google.Apis.Vision.v1.dll
+E:\MS\Master Project\VisionAPI\bin\Google.Datastore.V1.dll
+E:\MS\Master Project\VisionAPI\bin\Google.Protobuf.dll
+E:\MS\Master Project\VisionAPI\bin\Google.Storage.V1.dll
+E:\MS\Master Project\VisionAPI\bin\Grpc.Auth.dll
+E:\MS\Master Project\VisionAPI\bin\Grpc.Core.dll
+E:\MS\Master Project\VisionAPI\bin\log4net.dll
+E:\MS\Master Project\VisionAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MS\Master Project\VisionAPI\bin\Microsoft.Practices.ServiceLocation.dll
+E:\MS\Master Project\VisionAPI\bin\Microsoft.Practices.Unity.Configuration.dll
+E:\MS\Master Project\VisionAPI\bin\Microsoft.Practices.Unity.dll
+E:\MS\Master Project\VisionAPI\bin\Microsoft.Practices.Unity.Mvc.dll
+E:\MS\Master Project\VisionAPI\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+E:\MS\Master Project\VisionAPI\bin\Microsoft.Threading.Tasks.dll
+E:\MS\Master Project\VisionAPI\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+E:\MS\Master Project\VisionAPI\bin\Microsoft.Threading.Tasks.Extensions.dll
+E:\MS\Master Project\VisionAPI\bin\Microsoft.Web.Infrastructure.dll
+E:\MS\Master Project\VisionAPI\bin\MySql.Data.dll
+E:\MS\Master Project\VisionAPI\bin\MySql.Data.Entity.EF6.dll
+E:\MS\Master Project\VisionAPI\bin\MySql.Web.dll
+E:\MS\Master Project\VisionAPI\bin\Newtonsoft.Json.dll
+E:\MS\Master Project\VisionAPI\bin\System.Interactive.Async.dll
+E:\MS\Master Project\VisionAPI\bin\System.Net.Http.Extensions.dll
+E:\MS\Master Project\VisionAPI\bin\System.Net.Http.Primitives.dll
+E:\MS\Master Project\VisionAPI\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\MS\Master Project\VisionAPI\bin\System.Web.Helpers.dll
+E:\MS\Master Project\VisionAPI\bin\System.Web.Mvc.dll
+E:\MS\Master Project\VisionAPI\bin\System.Web.Optimization.dll
+E:\MS\Master Project\VisionAPI\bin\System.Web.Razor.dll
+E:\MS\Master Project\VisionAPI\bin\System.Web.WebPages.Deployment.dll
+E:\MS\Master Project\VisionAPI\bin\System.Web.WebPages.dll
+E:\MS\Master Project\VisionAPI\bin\System.Web.WebPages.Razor.dll
+E:\MS\Master Project\VisionAPI\bin\WebActivatorEx.dll
+E:\MS\Master Project\VisionAPI\bin\WebGrease.dll
+E:\MS\Master Project\VisionAPI\bin\Zlib.Portable.dll
+E:\MS\Master Project\VisionAPI\bin\Antlr3.Runtime.pdb
+E:\MS\Master Project\VisionAPI\bin\BouncyCastle.Crypto.pdb
+E:\MS\Master Project\VisionAPI\bin\EntityFramework.xml
+E:\MS\Master Project\VisionAPI\bin\EntityFramework.SqlServer.xml
+E:\MS\Master Project\VisionAPI\bin\Google.Api.CommonProtos.xml
+E:\MS\Master Project\VisionAPI\bin\Google.Api.Gax.xml
+E:\MS\Master Project\VisionAPI\bin\Google.Api.Gax.Grpc.xml
+E:\MS\Master Project\VisionAPI\bin\Google.Api.Gax.Rest.xml
+E:\MS\Master Project\VisionAPI\bin\Google.Apis.pdb
+E:\MS\Master Project\VisionAPI\bin\Google.Apis.xml
+E:\MS\Master Project\VisionAPI\bin\Google.Apis.Auth.pdb
+E:\MS\Master Project\VisionAPI\bin\Google.Apis.Auth.xml
+E:\MS\Master Project\VisionAPI\bin\Google.Apis.Auth.PlatformServices.pdb
+E:\MS\Master Project\VisionAPI\bin\Google.Apis.Auth.PlatformServices.xml
+E:\MS\Master Project\VisionAPI\bin\Google.Apis.Core.pdb
+E:\MS\Master Project\VisionAPI\bin\Google.Apis.Core.xml
+E:\MS\Master Project\VisionAPI\bin\Google.Apis.PlatformServices.pdb
+E:\MS\Master Project\VisionAPI\bin\Google.Apis.PlatformServices.xml
+E:\MS\Master Project\VisionAPI\bin\Google.Apis.Storage.v1.pdb
+E:\MS\Master Project\VisionAPI\bin\Google.Apis.Storage.v1.xml
+E:\MS\Master Project\VisionAPI\bin\Google.Apis.Vision.v1.pdb
+E:\MS\Master Project\VisionAPI\bin\Google.Apis.Vision.v1.xml
+E:\MS\Master Project\VisionAPI\bin\Google.Datastore.V1.xml
+E:\MS\Master Project\VisionAPI\bin\Google.Protobuf.xml
+E:\MS\Master Project\VisionAPI\bin\Google.Storage.V1.xml
+E:\MS\Master Project\VisionAPI\bin\Grpc.Auth.xml
+E:\MS\Master Project\VisionAPI\bin\Grpc.Core.xml
+E:\MS\Master Project\VisionAPI\bin\log4net.xml
+E:\MS\Master Project\VisionAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MS\Master Project\VisionAPI\bin\Microsoft.Practices.ServiceLocation.pdb
+E:\MS\Master Project\VisionAPI\bin\Microsoft.Practices.ServiceLocation.xml
+E:\MS\Master Project\VisionAPI\bin\Microsoft.Practices.Unity.xml
+E:\MS\Master Project\VisionAPI\bin\Microsoft.Practices.Unity.Configuration.xml
+E:\MS\Master Project\VisionAPI\bin\Microsoft.Practices.Unity.Mvc.xml
+E:\MS\Master Project\VisionAPI\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+E:\MS\Master Project\VisionAPI\bin\Microsoft.Threading.Tasks.xml
+E:\MS\Master Project\VisionAPI\bin\Microsoft.Threading.Tasks.Extensions.xml
+E:\MS\Master Project\VisionAPI\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+E:\MS\Master Project\VisionAPI\bin\Newtonsoft.Json.xml
+E:\MS\Master Project\VisionAPI\bin\System.Interactive.Async.xml
+E:\MS\Master Project\VisionAPI\bin\System.Net.Http.Extensions.xml
+E:\MS\Master Project\VisionAPI\bin\System.Net.Http.Primitives.xml
+E:\MS\Master Project\VisionAPI\bin\System.Web.Optimization.xml
+E:\MS\Master Project\VisionAPI\bin\System.Web.Helpers.xml
+E:\MS\Master Project\VisionAPI\bin\System.Web.Mvc.xml
+E:\MS\Master Project\VisionAPI\bin\System.Web.Razor.xml
+E:\MS\Master Project\VisionAPI\bin\System.Web.WebPages.xml
+E:\MS\Master Project\VisionAPI\bin\System.Web.WebPages.Deployment.xml
+E:\MS\Master Project\VisionAPI\bin\System.Web.WebPages.Razor.xml
+E:\MS\Master Project\VisionAPI\bin\Zlib.Portable.xml
+E:\MS\Master Project\VisionAPI\obj\Debug\VisionAPI.csproj.App.config
+E:\MS\Master Project\VisionAPI\obj\Debug\VisionAPI.dll
+E:\MS\Master Project\VisionAPI\obj\Debug\VisionAPI.pdb
+E:\MS\Master Project\VisionAPI\obj\Debug\VisionAPI.csprojResolveAssemblyReference.cache
+E:\MS\Master Project\VisionAPI\bin\Google.Cloud.Vision.V1.dll
+E:\MS\Master Project\VisionAPI\bin\Google.Cloud.Vision.V1.xml

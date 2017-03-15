@@ -1,0 +1,50 @@
+@{
+// Copyright 2015 Google Inc.
+//
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+//
+//     http://www.apache.org/licenses/LICENSE-2.0
+//
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
+//
+}
+@model GoogleCloudSamples.ViewModels.VisionAPIs.Form
+
+<h3>@Model.Action Image Detection using Vision API</h3>
+<!-- [START form] -->
+<form action="/VisionAPIs/@Model.FormAction/@Model.VisionAPI.Id" method="post" id="visionapi-form" enctype="multipart/form-data">
+    @Html.AntiForgeryToken()
+    <div class="form-group">
+        @Html.LabelFor(model => model.VisionAPI.Title)
+        @Html.EditorFor(model => model.VisionAPI.Title, new { htmlAttributes = new { @class = "form-control" } })
+        @Html.ValidationMessageFor(model => model.VisionAPI.Title, "", new { @class = "text-danger" })
+    </div>
+    
+    <div class="form-group">
+        @Html.LabelFor(model => model.VisionAPI.PublishedDate)
+        @Html.EditorFor(model => model.VisionAPI.PublishedDate, new { htmlAttributes = new { @class = "form-control", @type = "date" } })
+        @Html.ValidationMessageFor(model => model.VisionAPI.PublishedDate, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.VisionAPI.JsonDescription)
+        @Html.EditorFor(model => model.VisionAPI.JsonDescription, new { htmlAttributes = new { @class = "form-control", @type = "text",@disabled = "disabled"} })
+        @Html.ValidationMessageFor(model => model.VisionAPI.JsonDescription, "", new { @class = "text-danger" })
+    </div>
+    <!-- [START image] -->
+    <div class="form-group">
+        @Html.Label("Cover Image")
+        <input type="file" id="image" name="image" value="@Model.VisionAPI.ImageUrl" class="form-control">
+        @Html.HiddenFor(model => model.VisionAPI.ImageUrl)
+    </div>
+    <!-- [END image] -->
+
+    <button type="submit" class="btn btn-success">Save</button>
+</form>
+<!-- [END form] -->
